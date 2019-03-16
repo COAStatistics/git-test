@@ -76,3 +76,6 @@ Pull new commit from COA/master then push to your repository
 
 5. Merge pull request finish
 ![](https://raw.githubusercontent.com/MatsuiLin101/git-test/master/img/git_018.png)
+
+6.
+test
