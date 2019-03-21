@@ -21,3 +21,4 @@ pr merge 1
 pr merge 2
 pr merge 3
 merge no ff
+merge no ff2
